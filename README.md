@@ -17,14 +17,14 @@ Atmos Weather App is your go-to solution for accurate and comprehensive weather 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/jps27CSE/Atmos_Tanstack_Query_Shadcn_Recharts.git
-    cd Atmos_Tanstack_Query_Shadcn_Recharts
+    git clone https://github.com/mokone-september/Atmos_weather-app.git
+    cd Atmos_weather-app
     ```
 
 2. Install dependencies:
 
     ```bash
-    npm install
+    pnpm install
     ```
 
 3. Create a `.env.local` file in the root directory and configure the following environment variables:
@@ -36,7 +36,7 @@ Atmos Weather App is your go-to solution for accurate and comprehensive weather 
 4. Start the development server:
 
     ```bash
-    npm run dev
+    pnpm run dev
     ```
 
 ## Screenshots
@@ -54,4 +54,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Enjoy using Atmos Weather App and stay ahead of the weather!
-
